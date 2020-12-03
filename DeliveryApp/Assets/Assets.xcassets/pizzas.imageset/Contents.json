@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "pizza-dominium.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

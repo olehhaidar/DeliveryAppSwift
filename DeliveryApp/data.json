@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "title": "Pizza",
+            "items": [
+                "Margherita",
+                "Carbonara",
+                "Napolitana",
+                "Pepperoni"
+            ]
+        },
+        {
+            "title": "Burger",
+            "items": [
+                "Chesseburger",
+                "Bacon Burger",
+                "Big Mac",
+                "Ham Burger"
+            ]
+        },
+        {
+            "title": "Drinks",
+            "items": [
+                "Sprite",
+                "Fanta",
+                "Mohito",
+                "Tea",
+                "Coca-Cola",
+                "Schweppes",
+                "Beer",
+                "Ice Latte",
+                "Milk",
+                "Water"
+            ]
+        }
+    ]
+}
