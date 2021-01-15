@@ -1,7 +1,10 @@
 # DeliveryAppSwift
-<img width="446" alt="Screen Shot 2021-01-12 at 13 53 45" src="https://user-images.githubusercontent.com/62032505/104312304-17488180-54df-11eb-93a9-e5c54d088c9e.png">
-<img width="450" alt="Screen Shot 2021-01-12 at 13 54 02" src="https://user-images.githubusercontent.com/62032505/104312353-292a2480-54df-11eb-94a1-0f2df5b595bf.png">
-<img width="448" alt="Screen Shot 2021-01-12 at 13 54 15" src="https://user-images.githubusercontent.com/62032505/104312364-2cbdab80-54df-11eb-8ce8-6c37883fa5c4.png">
-<img width="450" alt="Screen Shot 2021-01-12 at 13 55 17" src="https://user-images.githubusercontent.com/62032505/104312376-30e9c900-54df-11eb-88fe-0f38730efee0.png">
-<img width="450" alt="Screen Shot 2021-01-12 at 13 55 29" src="https://user-images.githubusercontent.com/62032505/104312386-33e4b980-54df-11eb-8b8f-2579a3fd43c5.png">
-<img width="438" alt="Screen Shot 2021-01-12 at 13 55 44" src="https://user-images.githubusercontent.com/62032505/104312558-727a7400-54df-11eb-9f6c-e6d0ff0fe0f2.png">
+![Simulator Screen Shot - iPhone 12 - 2021-01-15 at 12 27 10](https://user-images.githubusercontent.com/62032505/104714078-6daaff80-572d-11eb-8304-151e45e11358.png)
+![Simulator Screen Shot - iPhone 12 - 2021-01-15 at 12 27 25](https://user-images.githubusercontent.com/62032505/104714083-700d5980-572d-11eb-9015-d0fea39dd806.png)
+![Simulator Screen Shot - iPhone 12 - 2021-01-15 at 12 27 38](https://user-images.githubusercontent.com/62032505/104714087-713e8680-572d-11eb-8120-c3e8c925659e.png)
+![Simulator Screen Shot - iPhone 12 - 2021-01-15 at 12 27 45](https://user-images.githubusercontent.com/62032505/104714089-71d71d00-572d-11eb-8a60-75c893b055ce.png)
+![Simulator Screen Shot - iPhone 12 - 2021-01-15 at 12 28 00](https://user-images.githubusercontent.com/62032505/104714091-726fb380-572d-11eb-8620-ad32913452db.png)
+![Simulator Screen Shot - iPhone 12 - 2021-01-15 at 12 28 09](https://user-images.githubusercontent.com/62032505/104714093-74397700-572d-11eb-9f2d-23fefdbd1d0f.png)
+![Simulator Screen Shot - iPhone 12 - 2021-01-15 at 12 28 19](https://user-images.githubusercontent.com/62032505/104714095-74397700-572d-11eb-8566-981632cafcd7.png)
+![Simulator Screen Shot - iPhone 12 - 2021-01-15 at 12 28 35](https://user-images.githubusercontent.com/62032505/104714099-74d20d80-572d-11eb-802c-149f392852a4.png)
+![Simulator Screen Shot - iPhone 12 - 2021-01-15 at 12 28 46](https://user-images.githubusercontent.com/62032505/104714100-756aa400-572d-11eb-84b1-9a6b8bb6c5ed.png)
