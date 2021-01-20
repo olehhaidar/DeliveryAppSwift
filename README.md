@@ -1,6 +1,6 @@
 # DeliveryApp
 
-**My first swift app. I've done during course swift in IT Step University. 
+My first swift app. I've done during course swift in IT Step University. 
 
 In this app I used: 
 - Realm
@@ -12,7 +12,8 @@ In this app I used:
 - LottieFiles
 - Navigations
 
-**Screenshots:**
+Screenshots:
+
 ![Simulator Screen Shot - iPhone 12 - 2021-01-20 at 15 32 20](https://user-images.githubusercontent.com/62032505/105183079-725d2280-5b36-11eb-991a-8a558f00b704.png)
 ![Simulator Screen Shot - iPhone 12 - 2021-01-20 at 15 32 30](https://user-images.githubusercontent.com/62032505/105183085-7426e600-5b36-11eb-9e76-e0072ee4d9fb.png)
 ![Simulator Screen Shot - iPhone 12 - 2021-01-20 at 15 32 37](https://user-images.githubusercontent.com/62032505/105183088-74bf7c80-5b36-11eb-9581-2efeb6b756d0.png)
