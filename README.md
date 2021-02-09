@@ -1,16 +1,16 @@
 # DeliveryApp
 
-My first swift app. I've done during course swift in IT Step University. 
+My first swift app. I've done during swift course in IT Step University. 
 
 In this app I used: 
+- Navigation
+- Autolayout
 - Realm
 - Alamofire
-- Autolayout
-- UITable
+- UITableView
 - JSON
 - Animations and gestures
 - LottieFiles
-- Navigations
 
 
 Screenshots:
